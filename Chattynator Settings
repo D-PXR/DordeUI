@@ -1,0 +1,33 @@
+Since Chattynator doesn't have a profile export feature, I have listed my settings below:
+
+### **Theme Settings**
+* **Theme:** Dark
+* **Solid chat background:** Enabled
+* **Chat transparency:** 100%
+* **Tab transparency:** 100%
+
+### **Layout Settings**
+* **Message spacing:** 10px
+* **Show vertical separator:** Enabled
+* **Show tabs:** Mouseover
+* **Show buttons:** Mouseover
+* **Buttons position:** Above tabs
+* **Edit box position:** Bottom
+* **Keep edit box visible:** Disabled
+* **New whispers to new tab:** Enabled
+* **Lock chat:** Enabled
+
+### **Display Settings**
+* **Message font:** Avant Garde
+* **Message font size:** 13px
+* **Message font outline:** None
+* **Message font shadow:** Disabled
+* **Enable message fading:** Enabled
+* **Message fade time:** 25s
+* **Flash tabs on:** All messages
+
+### **Formatting Settings**
+* **Timestamp:** HH:MM:SS
+* **Use class colors:** Enabled
+* **Shorten channels:** None
+* **Reduce redundant text:** Disabled
